@@ -1,0 +1,17 @@
+/*!
+\mainpage Dron etap1 - Etap pierwszy drona
+
+Program jest pierwszym z dwóch etapów zadania realizowanego \n
+na kursie Programowanie Obiektowe.
+
+\section etykieta-wazne-cechy Najważniejsze cechy
+
+Środowisko pracy drona: Gnuplot. \n
+Dron jest opisany za pomocą prostopadłościanu. \n
+Powierzchnie Dno i Woda ograniczają środowisko pracy drona. \n
+
+\section etykieta-możliwości Możliwości programu
+Dron może się obracać względem jednej płaszczyzny, \n
+oraz może opadać i wznosić się pod zadanym kątem na zadaną odległość. \n
+
+*/
